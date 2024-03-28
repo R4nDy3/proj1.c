@@ -61,6 +61,8 @@ int main(void)
     }
     
     free(S);
+    
+  printf("Funny meme bro");
 
     return 0;
 }
